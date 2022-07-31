@@ -1,1 +1,1 @@
-web: python -m discord_bot
+worker: python -m discord_bot
