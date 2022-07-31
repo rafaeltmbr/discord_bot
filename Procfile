@@ -1,1 +1,1 @@
-web: discord_bot:main
+web: discord_bot
