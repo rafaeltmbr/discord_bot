@@ -6,7 +6,7 @@ from ..util.get_file_lines import get_file_lines
 
 phrases = get_file_lines('discord_bot/content/phrases/mother.txt')
 
-AUTHORIZED_ROLES = ['adm', 'adms', 'admin', 'admins']
+AUTHORIZED_ROLES = ['adm', 'adms', 'admin', 'admins', "Pk's Academy"]
 NOT_AUTHORIZED_MESSAGE = 'com grandes poderes vem grandes responsabilidades.'
 
 @bot.command(name='mae', aliases=['mãe', 'mother'])
