@@ -1,4 +1,3 @@
-from faulthandler import disable
 from discord.ext import commands
 import random
 
